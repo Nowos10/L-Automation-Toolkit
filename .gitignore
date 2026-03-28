@@ -1,0 +1,11 @@
+# Log files — do not upload to GitHub
+*.log
+# Backup archives we create
+*.tar.gz
+*.zip
+# Temporary files
+*.tmp
+# Mac hidden files
+.DS_Store
+# VS Code settings folder
+.vscode/
